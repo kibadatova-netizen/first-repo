@@ -5,6 +5,9 @@ public class CreateBranch {
         for (int i = 0; i < 10; i++) {
             System.out.println("Hello, I am creating a new branch");
             System.out.println("Bye, I created a new branch");
+            System.out.println("Bye, I created a new branch");
+            System.out.println("Bye, I created a new branch");
+            System.out.println("Bye, I created a new branch");
         }
     }
 }
